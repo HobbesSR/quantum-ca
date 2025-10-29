@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Game of Life",
+  "description": "A simulation exploring the emergence of Conway's Game of Life from a discrete wavefunction system. The application models a lattice of qubits evolving through a cycle of local unitary transformations and controlled decoherence, demonstrating how classical cellular automaton rules can arise as stable attractors in a quantum-like system.",
+  "requestFramePermissions": []
+}
